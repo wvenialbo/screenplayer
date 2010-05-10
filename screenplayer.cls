@@ -13,7 +13,7 @@
 %
 \RequirePackage{ifthen}
 \usepackage[T1]{fontenc}
-\usepackage[letterpaper]{geometry}
+\usepackage[a4paper]{geometry}
 
 
 %
